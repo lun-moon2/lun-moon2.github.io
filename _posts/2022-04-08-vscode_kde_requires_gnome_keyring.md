@@ -1,4 +1,4 @@
-# install gnome-keyring on KDE to prevent a keyring error with vscode 
+#Install gnome-keyring on KDE to prevent a keyring error with vscode 
 
 I'm using Ubuntu 20.04 and the vscode snap version 1.66, apparently it requires gnome-keyring to prevent this error from showing up.
 
